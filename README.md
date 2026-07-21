@@ -210,21 +210,8 @@ Output
 
 # 📸 Screenshots
 
-## Home
 
 <img src="docs/SAMRTsql.png"/>
-
----
-
-## Generated SQL
-
-<img src="SAMRTsgl.png"/>
-
----
-
-## Results
-
-<img src="docs/result.png"/>
 
 ---
 
