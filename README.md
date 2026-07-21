@@ -218,7 +218,7 @@ Output
 
 ## Generated SQL
 
-<img src="docs/SAMRTsgl.png"/>
+<img src="SAMRTsgl.png"/>
 
 ---
 
