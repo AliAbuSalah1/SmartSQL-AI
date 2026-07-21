@@ -10,18 +10,6 @@ Convert natural language into SQL queries using AI, execute them securely on Pos
 
 ---
 
-## 📸 Project Preview
-
-> Add your screenshots here
-
-<p align="center">
-
-<img src="docs/home.png" width="900"/>
-
-</p>
-
----
-
 # ✨ Features
 
 - 🤖 Natural Language → SQL Generation
