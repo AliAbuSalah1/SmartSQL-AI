@@ -212,7 +212,7 @@ Output
 
 ## Home
 
-<img src="docs/home.png"/>
+<img src="docs/SAMRTsql.png"/>
 
 ---
 
